@@ -13,6 +13,6 @@
   <tr>
     <td>584</td>
     <td>FIND CUSTOMER REFREE</td>
-    <td><a href="https://medium.com/@ananyagupta1812/problem-statement-584-find-customer-refree-3cc44dd2bed" name="Medium" target="blank">Medium</a></td>
+    <td><a href="https://medium.com/@ananyagupta1812/problem-statement-584-find-customer-refree-3cc44dd2bed1" name="Medium" target="blank">Medium</a></td>
   </tr>
 </table>
