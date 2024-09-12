@@ -1,0 +1,4 @@
+#PROBLEM STATEMENT 584: FIND CUSTOMER REFREE
+
+SELECT name FROM customer 
+WHERE refree_id !=2 OR refree_id IS NULL;
